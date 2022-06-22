@@ -1,5 +1,7 @@
 # Additional Practice: BookLiker
 
+Video: https://youtu.be/Nr1rpzYd5aI
+
 ## Learning Goals
 
 - Access information from an API using a GET request and use it to update the
